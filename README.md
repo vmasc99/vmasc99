@@ -39,7 +39,7 @@ You can find the scripts and the projects on my GitHub, that I worked upon by cl
 ### [Climate data analysis for the city of Freiburg](https://github.com/vmasc99/Clim_Frei)
 - R: GIS mapping with sf, SQL: query selection and R connection
 
-### Extreme value models of Austria's climate
+### [Extreme value models of Austria's climate](https://github.com/vmasc99/Extreme_Values_Stat)
 - R: extRemes, lmom, samlmu, sf packages
 
 ### Statistical models and prediction of fauna in Australia
