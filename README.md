@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 </div>
 
 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valentino-mascherini-452175216/)
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/dMw4Tbd" data-context="false" ><a href="//imgur.com/a/dMw4Tbd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
