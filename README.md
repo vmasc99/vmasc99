@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <div id="badges">
-  <img src=""/>
+  <img src="https://imgur.com/c9fTDhF"/>
 </div>
 
 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valentino-mascherini-452175216/)
