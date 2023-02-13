@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <div id="skills">
-  <img src="https://i.imgur.com/c9fTDhF.png"/>
+  <img src="https://github.com/vmasc99/imgs_README/blob/main/github_material.png"/>
 </div>
 
 
@@ -31,8 +31,6 @@ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?
 # Projects
 
 You can find the scripts and the projects on my GitHub, that I worked upon by clicking on their titles.
-
-## [An Internal Link](https://wikipedia.org)
 
 ## R based
 
