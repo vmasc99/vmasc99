@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
-How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valentino-mascherini-452175216/)
+How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-valentino-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valentino-mascherini-452175216/)
