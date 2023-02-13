@@ -30,13 +30,13 @@ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?
 
 # Projects
 
-You can find the scripts and the projects that I worked upon in the repositories (rep:___).
+You can find the scripts and the projects on my GitHub, that I worked upon by clicking on their titles.
 
 ## [An Internal Link](https://wikipedia.org)
 
 ## R based
 
-### Climate data analysis for the city of Freiburg
+### [Climate data analysis for the city of Freiburg](https://github.com/vmasc99/Clim_Frei)
 - R: GIS mapping with sf, SQL: query selection and R connection
 
 ### Extreme value models of Austria's climate
