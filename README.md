@@ -39,6 +39,8 @@ You can find the scripts and the projects that I worked upon in the repositories
 - R: GIS mapping with sf, SQL: query selection and R connection
 - rep:
 
+[An Internal Link](wikipedia.it)
+
 ### Extreme value models of Austria's climate
 - R: extRemes, sf packages
 - rep:
