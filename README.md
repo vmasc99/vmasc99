@@ -31,7 +31,7 @@ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?
 
 # Projects
 
-You can find the scripts and the projects on my GitHub, that I worked upon by clicking on their titles.
+You can find the scripts and the projects that I worked upon on my GitHub, by clicking on their titles.
 
 ## R based
 
