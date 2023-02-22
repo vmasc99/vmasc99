@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+
 # Skills
 <!--
 **vmasc99/vmasc99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <div id="skills">
-  <img src="https://github.com/vmasc99/imgs_README/blob/main/github_material.png"/>
+  <img src="https://github.com/vmasc99/imgs_README/blob/main/github_material_1.png"/>
 </div>
 
 
