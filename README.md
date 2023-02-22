@@ -42,6 +42,9 @@ You can find the scripts and the projects on my GitHub, that I worked upon by cl
 ### [Extreme value models of Austria's climate](https://github.com/vmasc99/Extreme_Values_Stat)
 - R: extRemes, lmom, samlmu, sf packages
 
+### [Power plant emission reduction & optimisation](https://github.com/vmasc99/Power_plants)
+- R: base, GAMs: spatially oriented model
+
 ### Statistical models and prediction of fauna in Australia
 - R: mixed models, bootstrapping
 
@@ -69,9 +72,6 @@ You can find the scripts and the projects on my GitHub, that I worked upon by cl
 
 ### Soil moisture and N transport modeling in agricultural field
 - Hydrus 1D
-
-### Power plant emission reduction & optimisation 
-- GAMs: spatially oriented model
 
 ### Paddy rice system N emission reduction & optimisation
 - LandscapeDNDC
