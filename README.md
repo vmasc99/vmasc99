@@ -61,6 +61,9 @@ You can find the scripts and the projects on my GitHub, that I worked upon by cl
 
 ### [ArcGis' Focal Statistic raster calculator rendition](https://github.com/vmasc99/Focal_Statistics)
 - Python: numpy, pillow
+
+### [Water movement in soil physical modeling](https://github.com/vmasc99/Hydraulic_modeling)
+- Python: numpy, matplotlib
  
 ### API data fetching
 - Pyhton: , SQL: server setup and Python connection
